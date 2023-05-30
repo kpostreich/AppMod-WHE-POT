@@ -5,31 +5,10 @@
 ### Access the lab environment
 
 <h4 style="color:red"> Lab environments have been pre-assigned based on your email address provided to IBM. </h4>
- 
 
-  **Lab Environment assignments:**  
-  
-  Attendee email Address | URL to your environment 
-  --------------|----------
-  robert.hodder@veterans.gc.ca | https://some-random-url-for-novnc-html
-  chris.macfarlane@veterans.gc.ca | 
-  matthew.duffy@veterans.gc.ca | 
-  grant.mccarron@veterans.gc.ca | 
-  isaac.thompson@veterans.gc.ca | 
-  ivan.macphail@veterans.gc.ca | 
-  rodney.bridger@veterans.gc.ca | 
-  kyle.ferguson@veterans.gc.ca | 
-  brody.stewart@veterans.gc.ca | 
-  adam.mcisaac@veterans.gc.ca | 
-  andrea.macpherson@veterans.gc.ca | 
-  pedra.minnis@veterans.gc.ca | 
-  alex.creamer@veterans.gc.ca | 
-  dan.johnston@veterans.gc.ca | 
-  marc.blanchard@veterans.gc.ca | 
-  daniel.andrews@veterans.gc.ca | 
+<h4 style="color:red"> The lab instructor will provide you the URL to your unique lab environment. </h4>
 
-  
- 
+
 
 ### Hands-on Labs
 
