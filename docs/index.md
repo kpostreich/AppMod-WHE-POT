@@ -3,7 +3,7 @@
 ![](images/techjam.png)
 
 
-**Wednesday, June 1, 2023** 
+**Thursday, June 1, 2023** 
 
 Time: 8:30 pm - 4:30 pm 
 

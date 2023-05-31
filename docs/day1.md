@@ -10,21 +10,29 @@
 
 
 
-### Hands-on Labs
+### Container lab
 
-  - LAB 1158-Part 1: [Introduction to containerization](https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1158-Docker-Containers%2BOpenShift/1158-Part1-IntroContainer)
+  - Docker lab ; Create Liberty image and run Liberty containers:
   
-  - LAB 1158-Part 2: [Introduction to RedHat OpenShift](https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1158-Docker-Containers%2BOpenShift/1158-Part2-IntroOpenshift)
-  
-  - LAB 1061: [Modernize applications to Liberty on OpenShift](https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1161-RuntimeModernization)
+    <https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1158-Docker-Containers%2BOpenShift/1158-Part1-IntroContainer>
 
 
+### Kubernetes and OpenShift lab
 
+	
+  - RHOCP intro lab ; quick intro to OCP console and command line
   
+  - Kubernetes lab ; Kubernetes command line deployment, scaling, etc
+ 
+    <https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1158-Docker-Containers%2BOpenShift/1158-Part2-IntroOpenshift>
   
+
+	
+### App modernization lab
   
+  - Deployment using the Liberty Operator
+
+  - Application Modernization Lab
   
-  
-  
-  
-  
+    <https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1161-RuntimeModernization>
+
